@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mohamed Abuhalala</title>
+    <link>https://moe221.github.io/My_Portfolio_Website/post/</link>
+    <description>Recent content in Projects on Mohamed Abuhalala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://moe221.github.io/My_Portfolio_Website/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Power Demand Prediction</title>
+      <link>https://moe221.github.io/My_Portfolio_Website/post/project2/</link>
+      <pubDate>Mon, 08 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://moe221.github.io/My_Portfolio_Website/post/project2/</guid>
+      <description>Cleaned and restructured smart power meter time series data into a multi-index data frame.
+  Conducted an extensive EDA to locate trends in the power demand.
+  Used hierarchical agglomerative clustering to cluster building floors based on similarities.
+  Calculated and compared the average annual electricity cost of the building in different countries.
+  Trained a SARIMA model to predict daily power demand taking into account weekends and national holidays.</description>
+    </item>
+    
+    <item>
+      <title>2-Player Chess Game</title>
+      <link>https://moe221.github.io/My_Portfolio_Website/post/project4/</link>
+      <pubDate>Tue, 12 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://moe221.github.io/My_Portfolio_Website/post/project4/</guid>
+      <description>Built a fully functional chess game from scratch using tkinter and turtle modules.
+  Clicking on a chess piece will select it and clicking on a location on the board will move the selected piece to that location if the move is allowed. A player&amp;rsquo;s turn is over after they have made a valid move. The game is over when a player capture&amp;rsquo;s the opponent&amp;rsquo;s King.
+    GitHub repo</description>
+    </item>
+    
+    <item>
+      <title>Apartment Rental Price Predictor</title>
+      <link>https://moe221.github.io/My_Portfolio_Website/post/project3/</link>
+      <pubDate>Fri, 11 Dec 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://moe221.github.io/My_Portfolio_Website/post/project3/</guid>
+      <description>Analyzed two different datasets scrapped from Immobilienscout24.de. The raw data consisted of rental offers posted on Immobilienscout24.de in Sep 2018, May 2019, Oct 2019, Feb 2020 and Apr 2020. Cleaned and joined the two datasets as well as created new features from the description of each listing. Conducted an extensive EDA in order to develop insight on the rental market in Berlin. Implemented three different Machine learning models that could estimate the total rent price (Warmmiete) of an apartment in berlin.</description>
+    </item>
+    
+    <item>
+      <title>Temperature-based Retention Time</title>
+      <link>https://moe221.github.io/My_Portfolio_Website/post/project1/</link>
+      <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://moe221.github.io/My_Portfolio_Website/post/project1/</guid>
+      <description>Collected wastewater temperature data using a SulfiLogger sensor from two different pressure pipes.
+  Cleaned and analyzed the data.
+  Found correlation between temperature changes and flow rate.
+  Calculated reference retention times using flow meter data.
+  Created an algorithm that could determine the retention times of a wastewater parcel in a pressure pipe using temperature data
+       Evaluation Metric: &amp;mdash;Dataset A &amp;mdash;Dataset B     RMSPE 11% 14%   R² 0.</description>
+    </item>
+    
+  </channel>
+</rss>
