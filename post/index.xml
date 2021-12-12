@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mohamed Abuhalala</title>
-    <link>https://moe221.github.io/My_Portfolio_Website/</link>
-    <description>Recent content on Mohamed Abuhalala</description>
+    <title>Projects on Mohamed Abuhalala</title>
+    <link>https://moe221.github.io/My_Portfolio_Website/post/</link>
+    <description>Recent content in Projects on Mohamed Abuhalala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://moe221.github.io/My_Portfolio_Website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://moe221.github.io/My_Portfolio_Website/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diversity in Hollywood (Le wagon final project)</title>
       <link>https://moe221.github.io/My_Portfolio_Website/post/project6/</link>
@@ -60,16 +60,6 @@ This project was meant to put Hollywood under the lens and analyze gender and ra
       
       <guid>https://moe221.github.io/My_Portfolio_Website/post/project1/</guid>
       <description>Most sewer networks consist of gravity pipes, which rely on the natural slope of the landscape to convey waste-water, and pressure pipes, which are driven by a pump that pushes waste-water to higher located collection points. Anaerobic retention time (ART) is defined as the amount of time a given volume of waste-water resides in a pressure pipe before being discharged. Long retention times have been linked to an increase in the occurrence of unwanted biological and chemical processes, such as the formation of hydrogen sulfide (H2S) which is associated with odor, corrosion, and health problems.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://moe221.github.io/My_Portfolio_Website/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://moe221.github.io/My_Portfolio_Website/contact/</guid>
-      <description>Have a question or want to work together? Get in touch!
-         Email: myf.abuhalala@gmail.com   LinkedIn: https://www.linkedin.com/in/mohamed-abuhalala/   GitHub: https://github.com/moe221    </description>
     </item>
     
   </channel>

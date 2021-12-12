@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Mohamed Abuhalala</title>
+    <title>Temperature-based Retention Time | Mohamed Abuhalala</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="The last theme you&#39;ll ever need. Maybe.">
+    <meta name="description" content="An algorithm that can estimate the retention time in pressure pipes using waste-water temperature time series.">
     <meta name="generator" content="Hugo 0.90.1" />
     
     
@@ -30,15 +30,20 @@
 
     
     
-    <meta property="og:title" content="404 Page not found" />
-<meta property="og:description" content="The last theme you&#39;ll ever need. Maybe." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://moe221.github.io/My_Portfolio_Website/404.html" /><meta property="og:site_name" content="Mohamed Abuhalala" />
+    <meta property="og:title" content="Temperature-based Retention Time" />
+<meta property="og:description" content="An algorithm that can estimate the retention time in pressure pipes using waste-water temperature time series." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://moe221.github.io/My_Portfolio_Website/post/project1/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2020-10-09T10:58:08-04:00" />
+<meta property="article:modified_time" content="2020-10-09T10:58:08-04:00" /><meta property="og:site_name" content="Mohamed Abuhalala" />
 
-<meta itemprop="name" content="404 Page not found">
-<meta itemprop="description" content="The last theme you&#39;ll ever need. Maybe."><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="404 Page not found"/>
-<meta name="twitter:description" content="The last theme you&#39;ll ever need. Maybe."/>
+<meta itemprop="name" content="Temperature-based Retention Time">
+<meta itemprop="description" content="An algorithm that can estimate the retention time in pressure pipes using waste-water temperature time series."><meta itemprop="datePublished" content="2020-10-09T10:58:08-04:00" />
+<meta itemprop="dateModified" content="2020-10-09T10:58:08-04:00" />
+<meta itemprop="wordCount" content="195">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Temperature-based Retention Time"/>
+<meta name="twitter:description" content="An algorithm that can estimate the retention time in pressure pipes using waste-water temperature time series."/>
 
 	
   </head>
@@ -46,9 +51,13 @@
   <body class="ma0 helvetica bg-light-white">
 
     
+   
+  
 
-  <header>
-    <div class="bg-black">
+  
+  
+  <header class="cover bg-top" style="background-image: url('https://moe221.github.io/My_Portfolio_Website/images/h2s%20&amp;%20art%20scatter%20plot%20-%20complete%20dataset2.png');">
+    <div class="pb3-m pb6-l bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="https://moe221.github.io/My_Portfolio_Website/" class="f3 fw2 hover-white no-underline white-90 dib">
@@ -122,17 +131,121 @@
   </div>
 </nav>
 
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Temperature-based Retention Time</h1>
+          
+            <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+              An algorithm that can estimate the retention time in pressure pipes using waste-water temperature time series.
+            </h2>
+          
+        
+      </div>
     </div>
   </header>
 
 
+
     <main class="pb7" role="main">
       
-    <article class="center cf pv5 measure-wide-l">
-      <h1>
-        This is not the page you were looking for
-      </h1>
-    </article>
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        PROJECTS
+      </aside>
+      
+
+
+
+
+  <div id="sharing" class="mt3">
+
+ 
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Temperature-based Retention Time</h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-10-09T10:58:08-04:00">October 9, 2020</time>
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Most sewer networks consist of gravity pipes, which rely on the natural slope
+of the landscape to convey waste-water, and pressure pipes, which are driven by
+a pump that pushes waste-water to higher located collection points. Anaerobic
+retention time (ART) is defined as the amount of time a given volume of waste-water
+resides in a pressure pipe before being discharged. Long retention times have been
+linked to an increase in the occurrence of unwanted biological and chemical
+processes, such as the formation of hydrogen sulfide (H2S) which is associated
+with odor, corrosion, and health problems. Retention time is most commonly
+determined using flow meters which can be very costly. In this project, I present a
+new method for determine retention times using temperature data.</p>
+<h2 id="project-overview">Project Overview</h2>
+<ul>
+<li>
+<p>Collected waste-water temperature data using a SulfiLogger sensor from two different pressure pipes.</p>
+</li>
+<li>
+<p>Cleaned and analyzed the data.</p>
+</li>
+<li>
+<p>Found correlation between temperature changes and flow rate.</p>
+</li>
+<li>
+<p>Calculated reference retention times using flow meter data.</p>
+</li>
+<li>
+<p>Created an algorithm that could determine the retention times
+of a waste-water parcel in a pressure pipe using temperature data</p>
+</li>
+</ul>
+<figure><img src="https://moe221.github.io/My_Portfolio_Website/images/ART-flow%20&amp;%20temp%20-%20complete.png" width="1000"/>
+</figure>
+
+<h2 id="results">Results</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Evaluation Metric:</th>
+<th style="text-align:center">&mdash;Dataset A</th>
+<th style="text-align:center">&mdash;Dataset B</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">RMSPE</td>
+<td style="text-align:center">11%</td>
+<td style="text-align:center">14%</td>
+</tr>
+<tr>
+<td style="text-align:left">R²</td>
+<td style="text-align:center">0.97</td>
+<td style="text-align:center">0.75</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://github.com/moe221/Temperature-based_RT_project">GitHub repo</a></p>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
