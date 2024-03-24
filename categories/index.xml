@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Moe Abuhalala</title>
-    <link>https://moe221.github.io/My_Portfolio_Website/categories/</link>
+    <link>https://moe221.github.io/MohamedAbuhalala/categories/</link>
     <description>Recent content in Categories on Moe Abuhalala</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://moe221.github.io/My_Portfolio_Website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://moe221.github.io/MohamedAbuhalala/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
