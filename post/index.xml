@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://moe221.github.io/MohamedAbuhalala/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1. Apple Search Ads (ASA) Auction Simulation</title>
+      <title>1. AiSA: Keyword Bidding and ASA Campaign Optimization Model</title>
+      <link>https://moe221.github.io/MohamedAbuhalala/post/project8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://moe221.github.io/MohamedAbuhalala/post/project8/</guid>
+      <description>Apple Search Ads (ASA) is a vital tool for app developers to enhance their app&amp;rsquo;s visibility in the Apple App Store. By effectively managing ASA campaigns, developers can ensure their apps appear at the top of search results, thereby increasing visibility and potential downloads. Traditional campaign management strategies have relied on manual input and fixed rules, limiting flexibility and adaptability in a rapidly changing online market. Powered by Reinforcement Learning, this project marks a significant advancement towards fully automated ASA campaign management, capable of making informed decisions on budget allocation, CPI targets, and keyword bids without manual oversight.</description>
+    </item>
+    
+    <item>
+      <title>2. Apple Search Ads (ASA) Auction Simulation</title>
       <link>https://moe221.github.io/MohamedAbuhalala/post/project7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -17,22 +26,13 @@ This project aimed to create a realistic simulation of ASA that app marketers ca
     </item>
     
     <item>
-      <title>2. Hollywood Frame by Frame: A Deep Dive into On-Screen Diversity</title>
+      <title>3. Hollywood Frame by Frame: A Deep Dive into On-Screen Diversity</title>
       <link>https://moe221.github.io/MohamedAbuhalala/post/project6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://moe221.github.io/MohamedAbuhalala/post/project6/</guid>
       <description>Movies have a big impact on our lives. They can influence the way we see the world around us. Diversity on the big screen is extremely important since it allows a much wider audience to see what diversity looks like outside of their own communities and become more familiar and accepting of it.
 This project was meant to put Hollywood under the lens and analyze gender and race representation in a selection of movies spanning from the 1920s to 2021 using deep learning.</description>
-    </item>
-    
-    <item>
-      <title>3. NLP Contractor Classification</title>
-      <link>https://moe221.github.io/MohamedAbuhalala/post/project5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://moe221.github.io/MohamedAbuhalala/post/project5/</guid>
-      <description>I&amp;rsquo;ve made it a habit to always look back at my previous work experiences and think about how what I&amp;rsquo;m learning now could have helped me do my job better or automate some tasks. Recently, I&amp;rsquo;ve been learning about Natural Language Processing, which involves transforming text data into a format that a machine learning algorithm can understand. After learning some of the basics of NLP I was eager to try out this concept on some data that I collected myself during my time as a construction manager.</description>
     </item>
     
     <item>
@@ -45,21 +45,21 @@ This project was meant to put Hollywood under the lens and analyze gender and ra
     </item>
     
     <item>
-      <title>5. Building Power Demand Prediction</title>
+      <title>5. NLP Contractor Classification</title>
+      <link>https://moe221.github.io/MohamedAbuhalala/post/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://moe221.github.io/MohamedAbuhalala/post/project5/</guid>
+      <description>I&amp;rsquo;ve made it a habit to always look back at my previous work experiences and think about how what I&amp;rsquo;m learning now could have helped me do my job better or automate some tasks. Recently, I&amp;rsquo;ve been learning about Natural Language Processing, which involves transforming text data into a format that a machine learning algorithm can understand. After learning some of the basics of NLP I was eager to try out this concept on some data that I collected myself during my time as a construction manager.</description>
+    </item>
+    
+    <item>
+      <title>6. Building Power Demand Prediction</title>
       <link>https://moe221.github.io/MohamedAbuhalala/post/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://moe221.github.io/MohamedAbuhalala/post/project2/</guid>
       <description>Office buildings have an important role in shaping electricity demand in modern societies. Their energy demand patterns account in some countries for up to 45 % of the primary energy consumption. Monitoring the energy consumption of buildings and appliances using smart meters allows for a better understanding of specific energy needs and patterns, as well as enables locating peak demand times which can help decision-makers and planners to improve electricity consumption.</description>
-    </item>
-    
-    <item>
-      <title>6. Apartment Rental Price Predictor</title>
-      <link>https://moe221.github.io/MohamedAbuhalala/post/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://moe221.github.io/MohamedAbuhalala/post/project3/</guid>
-      <description>looking for an apartment in berlin is so annoyingly hard and competitive that it feels like it should be an olympic sport. Everyone knows that finding the perfect apartment isn&amp;rsquo;t easy, but being well prepared by doing some research on the renting market in Berlin before jumping in and trying your luck, could improve your chances. Recently, I was thinking about moving myself and wanted to get an idea of what I should expect, so I decided to do this project to help me with my apartment hunt!</description>
     </item>
     
     <item>
@@ -69,6 +69,15 @@ This project was meant to put Hollywood under the lens and analyze gender and ra
       
       <guid>https://moe221.github.io/MohamedAbuhalala/post/project4/</guid>
       <description>I did this project as a challenge for myself to see if I could build a working game from scratch without using any references or tutorials. It was a chance for me to practice object oriented programming and GUIs, as well as a way to learn not to run straight to StackOverflow every time i get stuck. This was a really fun project to tackle and I was very happy with the end results.</description>
+    </item>
+    
+    <item>
+      <title>8. Apartment Rental Price Predictor</title>
+      <link>https://moe221.github.io/MohamedAbuhalala/post/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://moe221.github.io/MohamedAbuhalala/post/project3/</guid>
+      <description>looking for an apartment in berlin is so annoyingly hard and competitive that it feels like it should be an olympic sport. Everyone knows that finding the perfect apartment isn&amp;rsquo;t easy, but being well prepared by doing some research on the renting market in Berlin before jumping in and trying your luck, could improve your chances. Recently, I was thinking about moving myself and wanted to get an idea of what I should expect, so I decided to do this project to help me with my apartment hunt!</description>
     </item>
     
   </channel>
